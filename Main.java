@@ -1,4 +1,4 @@
-package lambda;
+package calc;
 
 public class Main {
 

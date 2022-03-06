@@ -1,4 +1,4 @@
-package lambda;
+package calc;
 
 import java.util.function.BinaryOperator;
 import java.util.function.Consumer;

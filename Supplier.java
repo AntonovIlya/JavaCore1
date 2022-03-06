@@ -1,4 +1,4 @@
-package lambda;
+package calc;
 
 @FunctionalInterface
 public interface Supplier<T> {
